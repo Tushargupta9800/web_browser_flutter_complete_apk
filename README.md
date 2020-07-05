@@ -3,22 +3,22 @@
 A new Flutter application.
 
 
-# Download the app here
+# Download the apk here
 
 [webbrowser.apk](https://github.com/Tushargupta9800/web_browser_flutter_complete_apk/blob/master/webbrowser.apk)
 
 # Screenshot
-
-## Main Screen
+## Features:-
+## Main Screen:-
 <img src="https://github.com/Tushargupta9800/web_browser_flutter_complete_apk/blob/master/Screenshot/Screenshot1.jpg" width="230" height="400"/>
 
-## Enter Url
+## You can Enter Url
 <img src="https://github.com/Tushargupta9800/web_browser_flutter_complete_apk/blob/master/Screenshot/Screenshot2.jpg" width="230" height="400"/>
 
-## Easy Access sites
+## Easy Access of daily use sites
 <img src="https://github.com/Tushargupta9800/web_browser_flutter_complete_apk/blob/master/Screenshot/Screenshot3.jpg" width="230" height="400"/>
 
-## Runner so that you can able to open the same page in another application 
+## Runner so that in case you able to open the same page in another application 
 <img src="https://github.com/Tushargupta9800/web_browser_flutter_complete_apk/blob/master/Screenshot/Screenshot4.jpg" width="230" height="400"/>
 
 
