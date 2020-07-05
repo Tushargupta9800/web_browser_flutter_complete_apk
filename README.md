@@ -18,9 +18,17 @@ A new Flutter application.
 ## Easy Access of daily use sites
 <img src="https://github.com/Tushargupta9800/web_browser_flutter_complete_apk/blob/master/Screenshot/Screenshot3.jpg" width="230" height="400"/>
 
-## Runner so that in case you able to open the same page in another application 
+## Runner so that in case you want to open the same page in another application 
 <img src="https://github.com/Tushargupta9800/web_browser_flutter_complete_apk/blob/master/Screenshot/Screenshot4.jpg" width="230" height="400"/>
 
+## Plugins used:-
+1) webview_flutter
+2) font_awesome_flutter
+3) loading
+4) url_launcher
+
+## Android permissions taken:-
+1) uses-permission android:name="android.permission.INTERNET" /
 
 ## Getting Started
 
