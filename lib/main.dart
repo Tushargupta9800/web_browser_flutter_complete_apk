@@ -355,7 +355,7 @@ class _MyHomePageState extends State<MyHomePage> {
                               Text(
                                 "About me:-\nTushar Gupta, I'm currently(2020) pursuing\nB.Tech in "
                                     "Information Technology from\nIndian Institute of Information"
-                                    "Texhnology,\nAllahabad  You can find me "
+                                    "Technology,\nAllahabad  You can find me "
                                     "on Github along\nwith my other Projects. My Github Handle:-\n"
                                     "https://github.com/Tushargupta9800",
                                 style: TextStyle(
