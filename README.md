@@ -1,6 +1,6 @@
 # webbrowser
 
-A simple web browser to sirf the internet.
+A simple web browser to surf the internet.
 
 
 # Download the apk here
@@ -35,6 +35,9 @@ A simple web browser to sirf the internet.
 2) You can't play videos in full screen mode.
 3) Their is no tracking of History.
 4) You can't bookmark pages.
+
+If you know how to fix these then do help.
+BTW I'm a newbee flutter developer.
 
 ## Getting Started
 
