@@ -1,6 +1,6 @@
 # webbrowser
 
-A new Flutter application.
+A simple web browser to sirf the internet.
 
 
 # Download the apk here
@@ -29,6 +29,12 @@ A new Flutter application.
 
 ## Android permissions taken:-
 1) uses-permission android:name="android.permission.INTERNET" /
+
+# Issues:-
+1) Their is no download option.
+2) You can't play videos in full screen mode.
+3) Their is no tracking of History.
+4) You can't bookmark pages.
 
 ## Getting Started
 
