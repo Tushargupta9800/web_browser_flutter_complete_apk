@@ -35,6 +35,7 @@ A simple web browser to surf the internet.
 2) You can't play videos in full screen mode.
 3) Their is no tracking of History.
 4) You can't bookmark pages.
+5) Pressing the back button gets you out of the browser and it losts all its progress.
 
 If you know how to fix these then do help.
 BTW I'm a newbee flutter developer.
