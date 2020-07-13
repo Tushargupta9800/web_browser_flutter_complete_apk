@@ -30,7 +30,7 @@ A simple web browser to surf the internet.
 ## Android permissions taken:-
 1) uses-permission android:name="android.permission.INTERNET" /
 
-# Issues:-
+# Issues to explore:-
 1) Their is no download option.
 2) You can't play videos in full screen mode.
 3) Their is no tracking of History.
