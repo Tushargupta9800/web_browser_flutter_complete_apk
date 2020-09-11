@@ -1,6 +1,6 @@
 # webbrowser
 
-A simple web browser to surf the internet.
+A simple web browser to surf the internet..
 
 
 # Download the apk here
